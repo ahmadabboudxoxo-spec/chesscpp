@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1770986848 source:c:\users\dell\documents\c++\test\chess\main.cpp
+	<iostream>
+	<string>
+	<cmath>
+
